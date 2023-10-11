@@ -1,0 +1,24 @@
+td,th{
+    border: #0ba20b 3px solid;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+thead{
+    font-family: "Droid Sans";
+    font-size: 30px;
+    color: #d07c43;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Droid Sans";
+    color: #d07c43 ;
+}
+
+tr:nth-child(even){
+    background-color: #d07c43;
+}

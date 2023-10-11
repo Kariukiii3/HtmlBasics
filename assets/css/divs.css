@@ -1,0 +1,44 @@
+.fruits{
+    border: 2px solid;
+    background-color: saddlebrown ;
+    margin:2px ;
+    padding: 20px;
+    text-align: center;
+}
+.cars{
+    border: 2px solid;
+    background-color: indianred;
+    margin:2px ;
+    padding: 20px;
+    text-align: center;
+}
+.comp{
+    border: 2px solid;
+    background-color:darkolivegreen;
+    margin:2px ;
+    padding: 20px;
+    text-align: center;
+}
+
+.laptop{
+    border: white 3px solid;
+}
+.Toshiba{
+    border: white 3px solid;
+}
+
+.FRUITS{
+    border: 2px solid;
+    background-color:mediumpurple;
+    margin:2px ;
+    padding: 20px;
+    text-align: center;
+}
+
+#house{
+    border: 2px solid;
+    background-color: indianred;
+    margin:2px ;
+    padding: 20px;
+    text-align: center;
+}
